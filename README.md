@@ -1,0 +1,2 @@
+# jogi
+operating system
